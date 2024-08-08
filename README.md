@@ -10,8 +10,8 @@ Datasets: All BDE and BDFE datasets used in developing the models, testing the m
 Create and activate the environment. All required python packages are wrapped in this `2D.yml` file (Linux). 
 
 ```
-git clone github.com/thegodone/BDE-db2
-cd Example-BDE-prediction/
+git clone https://github.com/thegodone/BDE-db2.git
+cd BDE-db2/Example-BDE-prediction/
 conda env create -f 2D.yml -n bde
 conda activate bde
 ```
